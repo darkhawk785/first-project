@@ -8,19 +8,19 @@ body{
     width: 100px;
 }
 h1{
-    color: red; /*le titre est en rouge*/
+    color: #F02923; /*le titre est en rouge*/
     font-size: 40px;/*titre de 40 pixel*/
     font-family:"arial black",arial,verdana,sans-serif;/*police*/
     font-weight:bold;/*titre en gras*/
 }
 h2{
-    color: white; /*les sous titres sont en blanc*/
+    color: #F02923; /*les sous titres sont en blanc*/
     font-size: 20px;/*titre de 40 pixel*/
     font-family:"arial black",arial,verdana,sans-serif;/*police*/
     font-weight:bold;/*titre en gras*/
 }
 h4{
-    color: white; /*les sous titres sont en blanc*/
+    color: #F02923; /*les sous titres sont en blanc*/
     font-size: 20px;/*titre de 40 pixel*/
     font-family:"arial black",arial,verdana,sans-serif;/*police*/
     font-weight:bold;/*titre en gras*/
