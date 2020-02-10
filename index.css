@@ -1,0 +1,33 @@
+body{
+    background-color:#404241;
+}
+#biere{
+    width: 100px;
+}
+#lapin{
+    width: 100px;
+}
+h1{
+    color: red; /*le titre est en rouge*/
+    font-size: 40px;/*titre de 40 pixel*/
+    font-family:"arial black",arial,verdana,sans-serif;/*police*/
+    font-weight:bold;/*titre en gras*/
+}
+h2{
+    color: white; /*les sous titres sont en blanc*/
+    font-size: 20px;/*titre de 40 pixel*/
+    font-family:"arial black",arial,verdana,sans-serif;/*police*/
+    font-weight:bold;/*titre en gras*/
+}
+h4{
+    color: white; /*les sous titres sont en blanc*/
+    font-size: 20px;/*titre de 40 pixel*/
+    font-family:"arial black",arial,verdana,sans-serif;/*police*/
+    font-weight:bold;/*titre en gras*/
+}
+p{
+    color: white; /*les paragraphes sont en blanc*/
+    font-size: 12px;/*titre de 40 pixel*/
+    font-family:"arial black",arial,verdana,sans-serif;/*police*/
+    font-weight:italic;/*titre en gras*/
+}
