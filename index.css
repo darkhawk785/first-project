@@ -65,7 +65,7 @@ ul {
   }
   
   li a:hover, .dropdown:hover .dropbtn:hover .dropdown1:hover {
-      background-color: #B94807;;
+      background-color: #F02923;;
   }
   
   li.dropdown .dropdown1{
@@ -89,7 +89,7 @@ ul {
     text-align: left;
   }
   
-  .dropdown-content a:hover {  background-color: #B94807;}
+  .dropdown-content a:hover {  background-color: #F02923;}
   
   .dropdown:hover .dropdown-content {
     display: block;
