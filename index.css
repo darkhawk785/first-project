@@ -3,31 +3,41 @@ body{
 }
 #biere{
     width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 #lapin{
     width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 h1{
     color: #F02923; /*le titre est en rouge*/
     font-size: 40px;/*titre de 40 pixel*/
     font-family:"arial black",arial,verdana,sans-serif;/*police*/
     font-weight:bold;/*titre en gras*/
+    text-align: center;
 }
 h2{
     color: #F02923; /*les sous titres sont en blanc*/
     font-size: 20px;/*titre de 40 pixel*/
     font-family:"arial black",arial,verdana,sans-serif;/*police*/
     font-weight:bold;/*titre en gras*/
+    text-align: center;
 }
 h4{
     color: #F02923; /*les sous titres sont en blanc*/
     font-size: 20px;/*titre de 40 pixel*/
     font-family:"arial black",arial,verdana,sans-serif;/*police*/
     font-weight:bold;/*titre en gras*/
+    text-align: center;
 }
 p{
     color: white; /*les paragraphes sont en blanc*/
     font-size: 12px;/*titre de 40 pixel*/
     font-family:"arial black",arial,verdana,sans-serif;/*police*/
     font-weight:italic;/*titre en gras*/
+    text-align: center;
 }
